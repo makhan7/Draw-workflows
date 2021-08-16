@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T18:01:28.315Z" agent="5.0 (Windows)" etag="ugoVXaKGf7IlDWD-SfLp" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T18:02:30.628Z" agent="5.0 (Windows)" etag="O55Sz7x_awa8iha6csxJ" version="14.9.4" type="github">
   <diagram id="Y-60Z_LJQuom28YkshFT" name="Page-1">
     <mxGraphModel dx="1104" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="qxQWl3rxHaJ_IyMpAFqf-8" value="&lt;div&gt;&lt;b&gt;Trigger P2 dependent on P3&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="175" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxQWl3rxHaJ_IyMpAFqf-9" value="Weekly/Daily triggers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
