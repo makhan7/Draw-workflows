@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T18:00:41.529Z" agent="5.0 (Windows)" etag="n-gSwq-tqeDrKvQxOzSK" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T18:01:28.315Z" agent="5.0 (Windows)" etag="ugoVXaKGf7IlDWD-SfLp" version="14.9.4" type="github">
   <diagram id="Y-60Z_LJQuom28YkshFT" name="Page-1">
     <mxGraphModel dx="1104" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,13 +17,16 @@
           <mxGeometry x="320" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qxQWl3rxHaJ_IyMpAFqf-3" value="P3" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="610" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="650" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qxQWl3rxHaJ_IyMpAFqf-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="180" width="40" height="20" as="geometry" />
+        <mxCell id="qxQWl3rxHaJ_IyMpAFqf-6" value="Trigger P1 dependent on P2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="115" y="180" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qxQWl3rxHaJ_IyMpAFqf-7" value="Upstream or Downstream Dependencies." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="150" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxQWl3rxHaJ_IyMpAFqf-8" value="&lt;div&gt;&lt;b&gt;Trigger P2 dependent on P3&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="175" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
