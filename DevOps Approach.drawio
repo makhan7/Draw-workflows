@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T00:21:21.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="9as-DoERzXmU-PhsoHQO" version="17.4.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-14T00:25:20.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="dxu_GXgpafv3kO8FMXMD" version="17.4.4" type="github" pages="3">
   <diagram id="JY-19ItBJQ9Gft63ONpM" name="Page-1">
     <mxGraphModel dx="1102" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,6 +100,18 @@
         </mxCell>
         <mxCell id="FkPDrLNS-_9m-Bp_LRIx-11" value="Deploy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="585" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkPDrLNS-_9m-Bp_LRIx-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Build application code&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FkPDrLNS-_9m-Bp_LRIx-15" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Run application Tests&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FkPDrLNS-_9m-Bp_LRIx-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Push containers if any&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FkPDrLNS-_9m-Bp_LRIx-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Post Actions / Cleanup&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
