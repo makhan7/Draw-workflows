@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T20:42:59.118Z" agent="5.0 (Windows)" etag="Dr9VjeIqfHaIZPyvnzs5" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T20:45:10.348Z" agent="5.0 (Windows)" etag="VTQH_K6SFBKofW_KrItC" version="19.0.0" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="1102" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="130" y="380" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="475" width="220" height="85" as="geometry" />
+          <mxGeometry x="340" y="475" width="280" height="95" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-9" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="350" y="508" width="40" height="20" as="geometry" />
@@ -58,14 +58,14 @@
         <mxCell id="2a0f93b5c73ef8e7-18" value="&lt;h1&gt;Current State&lt;br&gt;&lt;/h1&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;No Pipeline, The pipeline what we were using is going down with Jenkins and other tools getting shutdown along with DI2E.&lt;/font&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="128" width="190" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-19" value="&lt;h1&gt;Future State&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Boeing team standing up infrastructure to support the CaaS pipeline efforts, hardware configuration and pipeline development still need to be done. &lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-19" value="&lt;h1&gt;Future State&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Enablers &amp;amp; Boeing team standing up infrastructure to support the CaaS pipeline efforts, hardware configuration and pipeline development still need to be done within OSA. &lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="380" y="250" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-20" value="&lt;h1&gt;Current State&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Currently We have Jenkins integrated tools environment where we build, test and deploy using the advantage of integrated environment on Di2e to nexus with the help of DI2E Nexus Repos.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="165" y="360" width="215" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-21" value="&lt;h1&gt;Future State&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Migrate all the data into OSA, follow the DoD DevSecOps architecture and build pipeline using OSA.&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="390" y="473" width="160" height="87" as="geometry" />
+        <mxCell id="2a0f93b5c73ef8e7-21" value="&lt;h1&gt;Future State&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Migrate all the data into OSA(this include various tools), follow the DoD DevSecOps architecture and build pipeline using OSA.&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="477" width="200" height="91" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-22" value="&lt;h1&gt;Current State&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Our current enviornment is very restricted to Boeing security,proxy and a certain way of doing things.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="590" width="190" height="100" as="geometry" />
