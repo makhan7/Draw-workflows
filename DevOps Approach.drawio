@@ -1,5 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T19:47:38.692Z" agent="5.0 (Windows)" etag="RXHCJbtfe_8Y3Kegm-83" version="19.0.0" type="github" pages="3">
-  <diagram id="RxmPx9w5jdzufzQm7B2K" name="Page1">
+<mxfile host="app.diagrams.net" modified="2022-06-03T21:04:40.771Z" agent="5.0 (Windows)" etag="7mntyvp0s8vYocUV4mYE" version="19.0.0" type="github" pages="4">
+  <diagram id="gEmzoofwI-bKpJZqDiBH" name="Page1">
+    <mxGraphModel dx="1102" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#AE4132;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="10" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-3" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="168" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-5" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="283" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-7" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="475" width="280" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-9" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="508" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="590" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-11" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="705" width="280" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-13" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="738" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="830" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-15" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="945" width="280" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-17" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="978" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-18" value="&lt;h1&gt;Current State&lt;br&gt;&lt;/h1&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;No Pipeline, The pipeline what we were using is going down with Jenkins and other tools getting shutdown along with DI2E.&lt;/font&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="128" width="190" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-19" value="&lt;h1&gt;Future State&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Enablers &amp;amp; Boeing team standing up infrastructure to support the CaaS pipeline efforts, hardware configuration and pipeline development still need to be done within OSA. &lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-20" value="&lt;h1&gt;Current State&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Currently We have Jenkins integrated tools environment where we build, test and deploy using the advantage of integrated environment on Di2e to nexus with the help of DI2E Nexus Repos.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="165" y="360" width="215" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-21" value="&lt;h1&gt;Future State&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Migrate all the data into OSA(Big effort and this include various tools), follow the DoD DevSecOps architecture and build pipeline using OSA.&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="477" width="200" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-22" value="&lt;h1&gt;Current State&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Our current enviornment is very restricted to Boeing security,proxy-network and a certain way of doing things.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="590" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-23" value="&lt;h1&gt;Future State&lt;br&gt;&lt;/h1&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Define tools, Automate the CI/CD tasks such as build, test and deploy into container registry, artifact repository, Use Containerized Software Factory.&lt;/font&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="705" width="200" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-24" value="&lt;h1&gt;Current State&lt;/h1&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;We do not have Dev, Test hosting instances and No straight forward Logging support in containers, some logs can be useful with the help of DI2E tools but everything in DI2E going away..&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="155" y="830" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-25" value="&lt;h1&gt;Future State&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Implement Design for Dev,Test, Integration environment, build CI/CD using OSA tools, wired up tools and orchestrate containers using container registry. setup monitoring if possible.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="945" width="220" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="HMRBYVmOyBkEGuMwz8zP-26" value="&lt;h2&gt;&lt;font color=&quot;#67AB9F&quot;&gt;CaaS High Level Details:&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="290" width="210" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RxmPx9w5jdzufzQm7B2K" name="Page2">
     <mxGraphModel dx="1102" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -147,13 +233,13 @@
         <mxCell id="UDHfY4Efi8n6eLUTuYqm-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
           <mxGeometry x="370" y="630" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cUB5imDzEm-1hujOPJT9-1" value="&lt;h1&gt;&lt;font color=&quot;#0000FF&quot;&gt;&lt;span style=&quot;&quot;&gt;DI2E Sunset&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="cUB5imDzEm-1hujOPJT9-1" value="&lt;h1&gt;&lt;font color=&quot;#0000FF&quot;&gt;&lt;span style=&quot;&quot;&gt;DI2E Sunset&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="255" y="10" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="JY-19ItBJQ9Gft63ONpM" name="Page2">
+  <diagram id="JY-19ItBJQ9Gft63ONpM" name="Page3">
     <mxGraphModel dx="1952" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -383,7 +469,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="CjKcut3TyImJist8Iu_o" name="Page3">
+  <diagram id="CjKcut3TyImJist8Iu_o" name="Page4">
     <mxGraphModel dx="1952" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
